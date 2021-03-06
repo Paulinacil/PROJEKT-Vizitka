@@ -14,11 +14,6 @@ h1 {
 body {
     background-color:#b2bec3;
     margin: 0;
-    box-sizing: border-box;
-    position: fixed;
-    left: 25%;
-    top: 25%;
-    top: 5%;
     font-family: 'Nunito', sans-serif;
     font-size: 18px;
     }
