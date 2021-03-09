@@ -29,8 +29,8 @@ p {
     border-radius: 50%;
     border: 3px solid white;  
     position: absolute; 
-    left: 475px;
-    bottom: 400px;
+    top: -10%;
+    right: -10%;
     }
 
 .pozadi {
@@ -40,7 +40,8 @@ p {
     padding: 30px;
     position:relative;
     margin: auto;  
-    margin-top: 150px;  
+    margin-top: 150px;
+    box-shadow: black 4px 6px 20px;  
    }
 
 a {
@@ -49,8 +50,7 @@ a {
     padding: 10px;
     text-transform: uppercase;
     text-decoration: none;
-    box-shadow: black 4px 6px 20px;
-   }
+    }
 
    .tlacitkotw, .tlacitkofb {
     margin-bottom: 5px;
