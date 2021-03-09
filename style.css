@@ -49,30 +49,34 @@ a {
     padding: 10px;
     text-transform: uppercase;
     text-decoration: none;
+    box-shadow: black 4px 6px 20px;
    }
 
-.tlacitkotw {
-    background-color: #1da1f2;
+   .tlacitkotw, .tlacitkofb {
     margin-bottom: 5px;
     text-align: center;
+    border-radius: 5px;
+  }
+
+   .tlacitkotw {
+    background-color: #1da1f2;
+    }
+
+.tlacitkofb {
+    background-color: #3b5998;
+    }
+
+.tlacitkotw a:hover, .tlacitkofb a:hover{
     border-radius: 5px;
     }
 
 .tlacitkotw a:hover {
-background-color: #0b7bc1;
-   }
-
-.tlacitkofb {
-    background-color: #3b5998;
-    margin-bottom: 5px;
-    text-align: center;
-    border-radius: 5px;
-   }
+    background-color: #0b7bc1;
+    }
 
 .tlacitkofb a:hover {
     background-color: #2b406e;
-   }
-
+    }
 
 /*
 BARVY:
